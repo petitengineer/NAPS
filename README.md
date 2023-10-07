@@ -12,9 +12,9 @@ The principal dataset is provided by the Healthy Brain Network (partnered with t
 # Tools & Libraries Used
 
 We aim to use the following tools:
-- (Pandas)[https://pandas.pydata.org/]
-- (Scikit-learn)[https://scikit-learn.org/stable/]
-- (Joblib)[https://joblib.readthedocs.io/en/stable]/(Pickle)[https://docs.python.org/3/library/pickle.html]
-- (Jupyter)[https://docs.jupyter.org/]
-- (Matplotlib)[https://matplotlib.org/stable/index.html]
-- (Github)[https://docs.github.com/en]/(Git)[https://git-scm.com/doc]
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Joblib](https://joblib.readthedocs.io/en/stable]/[Pickle](https://docs.python.org/3/library/pickle.html)
+- [Jupyter](https://docs.jupyter.org/)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Github](https://docs.github.com/en]/[Git](https://git-scm.com/doc)
