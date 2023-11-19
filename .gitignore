@@ -1,1 +1,5 @@
 data
+excel_test_data.csv
+excel_training_data.csv
+processed_test_data_NOtimestamps.parquet
+processed_test_data_timestamps.parquet
