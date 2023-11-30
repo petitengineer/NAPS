@@ -14,7 +14,8 @@ The principal dataset is provided by the Healthy Brain Network (partnered with t
 We aim to use the following tools:
 - [Pandas](https://pandas.pydata.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-- [Joblib](https://joblib.readthedocs.io/en/stable) and [Pickle](https://docs.python.org/3/library/pickle.html)
 - [Jupyter](https://docs.jupyter.org/)
-- [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Github](https://docs.github.com/en) and [Git](https://git-scm.com/doc)
+
+# Tools & Libraries Used
+We are not allowed to publish the dataset, dataset can be downloaded here: https://www.kaggle.com/datasets/carlmcbrideellis/zzzs-lightweight-training-dataset-target/data
